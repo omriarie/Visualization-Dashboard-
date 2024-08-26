@@ -1,4 +1,5 @@
 pip
+streamlit
 numpy
 plotly
 pandas
