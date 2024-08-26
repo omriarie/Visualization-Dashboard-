@@ -1,0 +1,8 @@
+numpy
+plotly
+pandas
+folium
+json
+streamlit_folium
+matplotlib
+io
