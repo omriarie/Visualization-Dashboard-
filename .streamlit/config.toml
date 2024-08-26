@@ -1,0 +1,10 @@
+[theme]
+base="light" # or "dark", but this will be overridden by the primaryColor setting
+primaryColor="#DB2C1D"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#c2c5cc"
+textColor="#000000"
+font="sans serif"
+
+[settings]
+hideThemeSelector = true
